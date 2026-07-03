@@ -6,7 +6,7 @@
 
 📎[**APE07: Distribuciones Muestrales y Teorema del Límite Central (TLC) mediante Simulación Estocástica**](APE_008_TLC.ipynb)
 
-📎[**APE08: Inferencia Estadística: Estimación de Parámetros e Intervalos de Confianza (Z y T de Student)**](APE009_Intevalos.ipynb)
+📎[**APE08: Inferencia Estadística: Estimación de Parámetros e Intervalos de Confianza (Z y T de Student)**](APE009_Intervalos.ipynb)
 
 📎[**APE09: Inferencia Estadística: Pruebas de Hipótesis Paramétricas (Z y T) y Análisis del Valor-p**](APE_010_Hipótesis_GrupoI.ipynb)
 

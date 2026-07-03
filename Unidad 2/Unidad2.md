@@ -16,4 +16,4 @@
 👩‍💻[**Bitacora**](bitacora.md)
 
 ---
-💡Desea regresar? [🔙](index.md)
+💡Desea regresar? [🔙](https://github.com/emilysalas/Portafolio_TeoriaDeLaDistribucionyProbabilidad/blob/main/index.md)

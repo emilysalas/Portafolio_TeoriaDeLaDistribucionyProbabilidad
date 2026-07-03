@@ -1,6 +1,9 @@
 # 📚 Bitácora de Autoevaluación — Unidad 1: Fundamentos de Probabilidad
+
 **Estudiante:** Emily Salas
+
 **Asignatura:** Teoría de la Distribución y Probabilidad — Ciclo 2do "A"
+
 **Prácticas cubiertas:** APE 00 – APE 05
  
 ---

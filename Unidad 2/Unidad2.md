@@ -13,7 +13,7 @@
 📎[**APE10: Inferencia Estadística Multigrupo: Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey)**](APE_011_DosMuestras.ipynb)
 
 ---
-📚 [**Evaluación Sumativa Unidad 02: Inferencia Estadística y Diagnóstico Paramétrico (ABP)**](Evaluación_Sumativa_Unidad_02_Inferencia_Estadística_y_Diagnóstico_Paramétrico_(ABP)_Emily Salas.ipynb)
+📚 [**Evaluación Sumativa Unidad 02: Inferencia Estadística y Diagnóstico Paramétrico (ABP)**](https://github.com/emilysalas/Portafolio_TeoriaDeLaDistribucionyProbabilidad/blob/main/Unidad%202/Evaluaci%C3%B3n_Sumativa_Unidad_02_Inferencia_Estad%C3%ADstica_y_Diagn%C3%B3stico_Param%C3%A9trico_(ABP)_Emily%20Salas.ipynb)
 
 ---
 👩‍💻[**Bitacora**](bitacora.md)

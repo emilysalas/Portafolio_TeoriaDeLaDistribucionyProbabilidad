@@ -19,6 +19,9 @@
 
 Da click aquí [🎥](https://drive.google.com/file/d/1cJzbk89_7MQkyzIPcy8RIuq6je3i-dyz/view?usp=sharing)
 
+### Link Diapositivas
+Da click aquí [📊](https://canva.link/i6l1lv47jj2k17u)
+
 ---
 👩‍💻[**Bitacora**](bitacora.md)
 

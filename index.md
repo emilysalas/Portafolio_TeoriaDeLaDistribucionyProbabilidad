@@ -29,6 +29,6 @@ Este portafolio digital reúne las principales actividades, prácticas y tareas 
 ### 📒 Unidad 2
 [Unidad 2](https://github.com/emilysalas/Portafolio_TeoriaDeLaDistribucionyProbabilidad/blob/main/Unidad%202/Unidad2.md)
 ### 📒 Unidad 3
-[Unidad 2](https://github.com/emilysalas/Portafolio_TeoriaDeLaDistribucionyProbabilidad/blob/main/Unidad%203/Unidad3.md)
+[Unidad 3](https://github.com/emilysalas/Portafolio_TeoriaDeLaDistribucionyProbabilidad/blob/main/Unidad%203/Unidad3.md)
 
 
